@@ -123,6 +123,4 @@ yarn format
 
 
 # Thank you!
-[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/lilac"/>](https://www.instagram.com/eik.crimes/) 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/lilac"/>](https://twitter.com/sarthakrawatbiz)  
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/lilac"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/dcd0ff"/>](https://www.instagram.com/eik.crimes/)     [<img height="32" width="32" src="https://cdn.simpleicons.org/twitter/dcd0ff"/>](https://twitter.com/sarthakrawatbiz)     [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/dcd0ff"/>](https://www.linkedin.com/in/sarthak-raw-eth/)
